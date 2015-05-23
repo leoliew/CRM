@@ -1,0 +1,270 @@
+BODY {
+	FONT-SIZE: 70%; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; bgcolor: #ffffff
+}
+A:link {
+	COLOR: #0000cc
+}
+A:active {
+	COLOR: #0000cc
+}
+A:visited {
+	COLOR: #0000cc
+}
+.pop {
+	TEXT-DECORATION: none
+}
+OL {
+	MARGIN-TOP: 0.5em; FONT-SIZE: 100%; MARGIN-BOTTOM: 0em; MARGIN-LEFT: 4em
+}
+UL {
+	MARGIN-TOP: 0.5em; FONT-SIZE: 100%; MARGIN-BOTTOM: 0em
+}
+OL UL {
+	MARGIN-TOP: 0.5em; LIST-STYLE-TYPE: disc
+}
+UL UL {
+	MARGIN-TOP: 0.5em; LIST-STYLE-TYPE: disc
+}
+LI {
+	MARGIN-BOTTOM: 0.7em; MARGIN-LEFT: -2em
+}
+PRE {
+	MARGIN-TOP: 1.2em; FONT-SIZE: 100%; MARGIN-BOTTOM: 1.5em
+}
+CODE {
+	FONT-SIZE: 125%; FONT-FAMILY: "courier new", courier
+}
+TABLE {
+	MARGIN-TOP: 1em; FONT-SIZE: 100%; MARGIN-BOTTOM: 0em
+}
+TH {
+	BACKGROUND: #cccccc; MARGIN: 0.25em; VERTICAL-ALIGN: bottom; TEXT-ALIGN: left
+}
+TR {
+	VERTICAL-ALIGN: top
+}
+TD {
+	MARGIN: 0.25em; VERTICAL-ALIGN: top; BORDER-BOTTOM: #cccccc 1px solid
+}
+P {
+	MARGIN-TOP: 0.6em; MARGIN-BOTTOM: 0.6em
+}
+H1 {
+	MARGIN-TOP: 0.4em; FONT-SIZE: 125%; MARGIN-BOTTOM: 0.5em
+}
+H2 {
+	MARGIN-TOP: 2em; FONT-SIZE: 110%; MARGIN-BOTTOM: 0.5em
+}
+H3 {
+	MARGIN-TOP: 1.2em; FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-BOTTOM: 0.5em
+}
+H4 {
+	MARGIN-TOP: 1.2em; FONT-WEIGHT: bold; FONT-SIZE: 100%
+}
+H5 {
+	MARGIN-TOP: 1.2em; FONT-WEIGHT: bold; FONT-SIZE: 100%
+}
+.lproch {
+	MARGIN-TOP: 1.2em; FONT-WEIGHT: bold
+}
+DT {
+	FONT-WEIGHT: bold
+}
+DD {
+	MARGIN-BOTTOM: 0.6em; MARGIN-LEFT: 2em
+}
+.ac {
+	FONT-SIZE: 90%; COLOR: #7f7f7f
+}
+.alpha {
+	FONT-WEIGHT: bold; FONT-SIZE: 125%
+}
+.dt1 {
+	MARGIN-LEFT: 2em; TEXT-INDENT: -2em
+}
+.hang {
+	MARGIN-LEFT: 2em; TEXT-INDENT: -2em
+}
+.ind {
+	MARGIN-LEFT: 2em
+}
+.mt {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold
+}
+.noborder {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.rtt {
+	FONT-SIZE: 90%; TEXT-ALIGN: right
+}
+.tableup {
+	MARGIN-TOP: 0em
+}
+.ov {
+	TEXT-DECORATION: overline
+}
+.4 {
+	LINE-HEIGHT: 4pt
+}
+.6 {
+	LINE-HEIGHT: 6pt
+}
+.Highlight {
+	BACKGROUND-COLOR: lightblue
+}
+.Normal {
+	BACKGROUND-COLOR: white
+}
+.fixp {
+	COLOR: #00ff00
+}
+.comment {
+	COLOR: darkgreen
+}
+.omblue {
+	BORDER-RIGHT: windowframe 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: windowframe 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; BORDER-LEFT: windowframe 1px solid; WIDTH: 180px; CURSOR: hand; COLOR: windowtext; LINE-HEIGHT: 9px; PADDING-TOP: 2px; BORDER-BOTTOM: windowframe 1px solid; HEIGHT: 16px; BACKGROUND-COLOR: #99ffff; TEXT-DECORATION: none
+}
+.ombluedash {
+	BORDER-RIGHT: windowframe 1px dashed; PADDING-RIGHT: 2px; BORDER-TOP: windowframe 1px dashed; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: windowframe 1px dashed; WIDTH: 180px; CURSOR: hand; COLOR: windowtext; LINE-HEIGHT: 9px; PADDING-TOP: 2px; BORDER-BOTTOM: windowframe 1px dashed; HEIGHT: 16px; BACKGROUND-COLOR: #99ffff; TEXT-DECORATION: none
+}
+.omyellow {
+	BORDER-RIGHT: windowframe 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: windowframe 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; BORDER-LEFT: windowframe 1px solid; WIDTH: 180px; CURSOR: hand; COLOR: windowtext; LINE-HEIGHT: 9px; PADDING-TOP: 2px; BORDER-BOTTOM: windowframe 1px solid; HEIGHT: 16px; BACKGROUND-COLOR: #ffff99; TEXT-DECORATION: none
+}
+.omyellowdash {
+	BORDER-RIGHT: windowframe 1px dashed; PADDING-RIGHT: 2px; BORDER-TOP: windowframe 1px dashed; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: windowframe 1px dashed; WIDTH: 180px; CURSOR: hand; COLOR: windowtext; LINE-HEIGHT: 9px; PADDING-TOP: 2px; BORDER-BOTTOM: windowframe 1px dashed; HEIGHT: 16px; BACKGROUND-COLOR: #ffff99; TEXT-DECORATION: none
+}
+.ofvbaispan {
+	BORDER-RIGHT: windowframe 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: windowframe 1px solid; DISPLAY: none; PADDING-LEFT: 0px; Z-INDEX: 1; PADDING-BOTTOM: 0px; BORDER-LEFT: windowframe 1px solid; COLOR: windowtext; PADDING-TOP: 0px; BORDER-BOTTOM: windowframe 1px solid; POSITION: absolute
+}
+.ofvbanav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px
+}
+.ofvbanavreuse {
+	WIDTH: 75px; CURSOR: hand; COLOR: #0000cc
+}
+.ofvbanavunused {
+	WIDTH: 75px; COLOR: graytext
+}
+.ofvbanavhidden {
+	DISPLAY: none; WIDTH: 75px
+}
+.ofvbashowdesc {
+	FONT-SIZE: smaller; CURSOR: hand; COLOR: #0000cc; TEXT-DECORATION: underline
+}
+.ofvbadesc {
+	DISPLAY: none; COLOR: windowtext
+}
+.ofvbanavex {
+	TEXT-DECORATION: none
+}
+.ofvbasyn {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px; BACKGROUND-COLOR: #cccccc
+}
+.signature {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px; BACKGROUND-COLOR: #cccccc
+}
+.ofvbalink {
+	TEXT-DECORATION: none
+}
+.ofvbalink:hover {
+	TEXT-DECORATION: underline
+}
+.DropDown {
+	FONT-WEIGHT: normal; TOP: 0pt; TEXT-DECORATION: none
+}
+.DropDown:hover {
+	TEXT-DECORATION: underline
+}
+.HidePopUp {
+	TEXT-DECORATION: none
+}
+.HidePopUp:hover {
+	TEXT-DECORATION: underline
+}
+.Glossary {
+	TEXT-DECORATION: none
+}
+.glossary:hover {
+	TEXT-DECORATION: underline
+}
+.Glossarydef {
+	COLOR: #008c00; TEXT-DECORATION: none
+}
+.srcContent {
+
+}
+.expfav {
+	MARGIN-TOP: -1em; FONT-SIZE: 80%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: right
+}
+.expanded {
+	FONT-WEIGHT: normal
+}
+.collapsed {
+	DISPLAY: none
+}
+.def {
+	MARGIN-TOP: 40pt
+}
+#theIFRAME {
+	DISPLAY: none; POSITION: absolute
+}
+.BPhide {
+	DISPLAY: none
+}
+.BPshow {
+
+}
+.BPHide4Bidi {
+
+}
+.BPHide4EA {
+
+}
+.BPHide4Thai {
+
+}
+.hide4ara {
+
+}
+.hide4arascript {
+
+}
+.hide4biditha {
+
+}
+.hide4eabidi {
+
+}
+.hide4easa {
+
+}
+.hide4easabidi {
+
+}
+.hide4eng {
+
+}
+.hide4enu {
+
+}
+.hide4enucanfrndut {
+
+}
+.hide4heb {
+
+}
+.hide4hindi {
+
+}
+.hide4jamuiopt {
+
+}
+.hide4sa {
+
+}
+.hide4sabidi {
+
+}
+.somecontent {
+
+}

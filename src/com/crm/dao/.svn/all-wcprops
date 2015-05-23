@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/crm/!svn/ver/4/crm/src/com/crm/dao
+END
+TDeptDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/crm/!svn/ver/4/crm/src/com/crm/dao/TDeptDAO.java
+END
+TRoleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/crm/!svn/ver/4/crm/src/com/crm/dao/TRoleDAO.java
+END
+TUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/crm/!svn/ver/2/crm/src/com/crm/dao/TUserDAO.java
+END
+TLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/crm/!svn/ver/2/crm/src/com/crm/dao/TLogDAO.java
+END
+TModuleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/crm/!svn/ver/4/crm/src/com/crm/dao/TModuleDAO.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/crm/!svn/ver/42/crm/src/com/crm/dao/BaseDao.java
+END

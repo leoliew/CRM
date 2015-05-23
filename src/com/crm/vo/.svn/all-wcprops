@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/crm/!svn/ver/6/crm/src/com/crm/vo
+END
+TLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/crm/!svn/ver/2/crm/src/com/crm/vo/TLog.java
+END
+TModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/crm/!svn/ver/4/crm/src/com/crm/vo/TModule.java
+END
+TUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/crm/!svn/ver/4/crm/src/com/crm/vo/TUser.java
+END
+TRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/crm/!svn/ver/4/crm/src/com/crm/vo/TRole.java
+END
+TDept.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/crm/!svn/ver/4/crm/src/com/crm/vo/TDept.java
+END

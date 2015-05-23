@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/crm/!svn/ver/4/crm/src/com/crm/biz
+END
+DeptBiz.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/crm/!svn/ver/4/crm/src/com/crm/biz/DeptBiz.java
+END
+RoleBiz.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/crm/!svn/ver/4/crm/src/com/crm/biz/RoleBiz.java
+END
+UserBiz.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/crm/!svn/ver/31/crm/src/com/crm/biz/UserBiz.java
+END
+ModuleBiz.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/crm/!svn/ver/4/crm/src/com/crm/biz/ModuleBiz.java
+END

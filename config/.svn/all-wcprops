@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/crm/!svn/ver/24/crm/config
+END
+struts_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/crm/!svn/ver/33/crm/config/struts_user.xml
+END
+struts_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/crm/!svn/ver/4/crm/config/struts_log.xml
+END
+struts_module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/crm/!svn/ver/4/crm/config/struts_module.xml
+END
+applicationContext_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/crm/!svn/ver/4/crm/config/applicationContext_user.xml
+END
+applicationContext_aop_annotation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/crm/!svn/ver/4/crm/config/applicationContext_aop_annotation.xml
+END
+applicationContext_module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/crm/!svn/ver/4/crm/config/applicationContext_module.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/crm/!svn/ver/13/crm/config/applicationContext.xml
+END
+struts_dept.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/crm/!svn/ver/4/crm/config/struts_dept.xml
+END
+struts_role.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/crm/!svn/ver/4/crm/config/struts_role.xml
+END
+.struts_user.mex
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/crm/!svn/ver/4/crm/config/.struts_user.mex
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/crm/!svn/ver/4/crm/config/struts.xml
+END
+applicationContext_log.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/crm/!svn/ver/4/crm/config/applicationContext_log.xml
+END
+applicationContext_dept.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/crm/!svn/ver/4/crm/config/applicationContext_dept.xml
+END
+applicationContext_role.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/crm/!svn/ver/4/crm/config/applicationContext_role.xml
+END

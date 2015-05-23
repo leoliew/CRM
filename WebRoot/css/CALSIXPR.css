@@ -1,0 +1,225 @@
+SELECT {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.form-button {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #6699cc 1px solid; BORDER-LEFT: #6699cc 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+.form-button-hover {
+	BORDER-RIGHT: #6699cc 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #6699cc 1px solid
+}
+.form-text {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial
+}
+A.alpha {
+	COLOR: #000000;
+	TEXT-DECORATION: none;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+}
+A.alpha:hover {
+	COLOR: #000000;
+	TEXT-DECORATION: underline;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+}
+TR.alpha {
+	BACKGROUND-COLOR: #6699cc;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}
+TD.alpha {
+	BACKGROUND-COLOR: #6699cc;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}
+TD.alpha-gradient {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0, startColorStr=#B6CBEB, endColorStr=#6699CC)
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #33FF00;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+}
+FONT.alpha {
+	COLOR: #000000;
+	FONT-FAMILY: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+}
+.alpha-neg-alert {
+	COLOR: #ff0000
+}
+.alpha-pos-alert {
+	COLOR: #007f00
+}
+A.beta {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.beta:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+TR.beta {
+	BACKGROUND-COLOR: #e7efff;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+}
+TD.beta {
+	BACKGROUND-COLOR: #b6cbeb
+}
+TD.beta-gradient {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0, startColorStr=#FFFFFF, endColorStr=#B6CBEB)
+}
+FONT.beta {
+	COLOR: #000000;
+	FONT-FAMILY: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+}
+.beta-neg-alert {
+	COLOR: #ff0000
+}
+.beta-pos-alert {
+	COLOR: #007f00
+}
+A.gamma {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.gamma:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+TR.gamma {
+	BACKGROUND-COLOR: #eeeeee;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}
+TD.gamma {
+	BACKGROUND-COLOR: #eeeeee;
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}
+TD.gamma-gradient {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0, startColorStr=#FFFFFF, endColorStr=#EEEEEE)
+}
+FONT.gamma {
+	COLOR: #000000;
+	FONT-FAMILY: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+}
+.gamma-neg-alert {
+	COLOR: #ff0000
+}
+.gamma-pos-alert {
+	COLOR: #007f00
+}
+A.bg {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.bg:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A.bg1 {
+	COLOR: #007f00; TEXT-DECORATION: underline
+}
+A.bg1:hover {
+	COLOR: #007f00; TEXT-DECORATION: underline
+}
+TR.bg {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.bg {
+	BACKGROUND-COLOR: #ffffff
+}
+FONT.bg {
+	COLOR: #000000; FONT-FAMILY: Arial
+}
+.bg-neg-alert {
+	COLOR: #ff0000
+}
+.bg-pos-alert {
+	COLOR: #007f00
+}
+TR.even {
+	COLOR: #000000; FONT-FAMILY: Arial; BACKGROUND-COLOR: #b6cbeb
+}
+TR.odd {
+	COLOR: #000000; FONT-FAMILY: Arial; BACKGROUND-COLOR: #eeeeee
+}
+UNKNOWN {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-font-dim {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+UNKNOWN {
+	FONT-SIZE: medium; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: Arial
+}
+.portlet-msg-info {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-msg-error {
+	FONT-SIZE: medium; COLOR: #ff0000; FONT-FAMILY: Arial
+}
+.portlet-msg-alert {
+	FONT-SIZE: medium; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: Arial
+}
+.portlet-msg-success {
+	FONT-SIZE: medium; COLOR: #007f00; FONT-FAMILY: Arial
+}
+UNKNOWN {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-section-body {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-section-alternate {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-section-selected {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-section-subheader {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-section-footer {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-section-text {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+UNKNOWN {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-form-input-field {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 80%; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial
+}
+.portlet-form-button {
+
+}
+.portlet-icon-label {
+	FONT-SIZE: small; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-dlg-icon-label {
+	FONT-SIZE: small; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-form-field-label {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.portlet-form-field {
+	FONT-SIZE: medium; COLOR: #000000; FONT-FAMILY: Arial
+}
+.bg {
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}
+strong {
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}
+td {
+	font-family: "\u00CB\u00CE\u00CC\u00E5";
+	font-size: 9pt;
+	color: #000000;
+}

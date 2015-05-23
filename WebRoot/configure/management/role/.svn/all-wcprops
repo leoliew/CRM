@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/crm/!svn/ver/3/crm/WebRoot/configure/management/role
+END
+role_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/role/role_list.jsp
+END
+role_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/role/role_add.jsp
+END
+role_mod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/role/role_mod.jsp
+END
+role_authorization.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/role/role_authorization.jsp
+END
+role_select.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/crm/!svn/ver/3/crm/WebRoot/configure/management/role/role_select.jsp
+END

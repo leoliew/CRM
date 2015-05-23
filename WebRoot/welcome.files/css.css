@@ -1,0 +1,27 @@
+UNKNOWN {
+	FONT-SIZE: 9pt; COLOR: #a0a0a0; FONT-FAMILY: 宋体
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: 宋体
+}
+TD.jianjie {
+	LINE-HEIGHT: 2
+}
+TD.jianjie1 {
+	LINE-HEIGHT: 1.5
+}
+A:link {
+	FONT-SIZE: 9pt; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; FONT-FAMILY: 宋体; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000
+}
+A:visited {
+	COLOR: #202020
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: red; TEXT-DECORATION: underline
+}

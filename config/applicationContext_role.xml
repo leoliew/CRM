@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+
+	<bean id="TRoleDAO" class="com.crm.dao.TRoleDAO">
+		<property name="sessionFactory">
+			<ref bean="sessionFactory" />
+		</property>
+	</bean>
+			
+	<bean id="roleBiz" class="com.crm.biz.RoleBiz">
+		<property name="roleDAO" ref="TRoleDAO"></property>
+		<property name="baseDao"  ref="TRoleDAO"></property>
+	</bean>		
+	
+	<bean id="roleAction" class="com.crm.action.RoleAction" scope="prototype">
+		<property name="roleBiz" ref="roleBiz"></property>
+		<property name="moduleBiz" ref="moduleBiz"></property>
+	</bean>
+</beans>

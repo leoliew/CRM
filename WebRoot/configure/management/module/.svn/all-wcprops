@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/crm/!svn/ver/3/crm/WebRoot/configure/management/module
+END
+module_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/crm/!svn/ver/3/crm/WebRoot/configure/management/module/module_add.jsp
+END
+module_mod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/module/module_mod.jsp
+END
+module_select.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/module/module_select.jsp
+END
+module_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/crm/!svn/ver/38/crm/WebRoot/configure/management/module/module_list.jsp
+END
