@@ -1,0 +1,109 @@
+BODY{
+	BACKGROUND: #ffffff;
+	CURSOR: default;
+	MARGIN: 0px;
+	PADDING: 0px;
+	TEXT-ALIGN: center
+	}
+.RptPage{
+	background: #ffffff;
+	border-width : none;
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 8pt;
+	HEIGHT: 520pt;
+	TEXT-ALIGN: left;
+	WIDTH: 740pt;
+	}
+.RptPageMin{
+	background: #ffffff;
+	border-width : none;
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 8pt;
+	HEIGHT: 520pt;
+	TEXT-ALIGN: left;
+	WIDTH: 730pt;
+	}
+.RptPageofPrint {
+	BACKGROUND-COLOR: white;
+	BORDER : black 0px solid;
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 8pt;
+	HEIGHT: 520pt;
+	TEXT-ALIGN: left;
+	WIDTH: 730pt;
+	}
+.Hide{
+	DISPLAY: none;
+	}
+.RptBody{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 9pt;
+	HEIGHT: 18px;
+	}
+.RptCondition{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 7pt;
+	HEIGHT: 16px;
+	}
+.RptFields{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 9pt;
+	FONT-WEIGHT: bold;
+	HEIGHT: 18px;
+	TEXT-ALIGN: center;
+	}
+.RptHead{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 8pt;
+	HEIGHT: 20px;
+	}
+.RptHr{
+	COLOR: black;
+	HEIGHT: 1px;
+	}
+.RptName{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 12pt;
+	FONT-WEIGHT: bold;
+	HEIGHT: 20px;
+	}
+.RptTotal{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 9pt;
+	FONT-WEIGHT: bold;
+	HEIGHT: 18px;
+	}
+.RptT {
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 14pt;
+	FONT-WEIGHT: bold;
+	}
+.RptCompany {
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 10pt;
+	HEIGHT: 18px;
+	FONT-WEIGHT: bold;
+	}
+.RptCompanyBig {
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 10pt;
+	HEIGHT: 18px;
+	FONT-WEIGHT: bold;
+	}	
+.RptAddress{
+	FONT-FAMILY: 宋体;
+	FONT-SIZE: 9pt;
+	HEIGHT: 20px
+	}
+.RptBorderL{
+	border-left: solid 1 black;
+	}
+.RptBorderT{
+	border-top: solid 1 black;
+	}
+.RptBorderB{
+	border-bottom: solid 1 black;
+	}
+.RptBorderR{
+	border-right: solid 1 black;
+	}

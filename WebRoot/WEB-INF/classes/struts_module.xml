@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+<package name="module" extends="struts-default">
+<action name="module_*" class="moduleAction" method="{1}">
+	<result name="showModule">/configure/management/module/module_list.jsp</result>
+</action>
+	<action name="moduleManagerAction" class="moduleAction">
+		<result name="showModule">/configure/management/module/module_list.jsp</result>
+		<result name="add0">/configure/management/module/module_add.jsp</result>
+		<result name="add1"  type="redirectAction">module_list</result>
+		<result name="mod0">/configure/management/module/module_mod.jsp</result>
+		<result name="toSelect">/configure/management/module/module_select.jsp</result>
+		<result name="select">/configure/management/module/module_select.jsp</result>
+	</action>
+</package>
+</struts>    

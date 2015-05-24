@@ -1,0 +1,28 @@
+.aa {
+	font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana;
+	font-size: 12px;
+	background-color: white;
+	border-width: 2px;
+	border-color: #cccccc;
+	border-style: solid;
+	padding: 1px;
+	margin: 1px 0 0 0;
+	text-align:left;	
+}
+.aa_highlight {
+	background-color: #FFFF00;
+	color: #000000;
+}
+.aa_wait {
+	background-image: url(indicators/arrows_circle.gif);
+	background-repeat: no-repeat;
+	background-position: 98% center;	
+}
+.aa * {
+	padding: 3px;
+	text-align:left;
+}
+.aa div {
+	width: 98%;
+}
+

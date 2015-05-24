@@ -1,0 +1,31 @@
+10
+
+dir
+25
+http://192.168.1.199/svn/crm/crm/WebRoot/configure
+http://192.168.1.199/svn/crm
+
+
+
+2013-02-06T05:23:28.092352Z
+3
+testa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f594025-b8af-6140-8af2-1f2676732d6d
+
+management
+dir
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+<constant name="struts.objectFactory" value="spring" />
+	<include file="struts_dept.xml"></include>
+	<include file="struts_log.xml"></include>
+	<include file="struts_module.xml"></include>
+	<include file="struts_role.xml"></include>
+	<include file="struts_user.xml"></include>
+
+</struts>    
