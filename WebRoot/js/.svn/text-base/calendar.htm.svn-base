@@ -1,9 +1,0 @@
-<script language="javascript" src="calendar.js"></script>
-<script language="javascript">
-if(!window.dialogArguments) window.close();
-else if(document.all) {
-	var paramArray = window.dialogArguments;
-	var theCalendar = new Calendar(paramArray[0], paramArray[1], paramArray[2]);
-	theCalendar.run();
-}
-</script>

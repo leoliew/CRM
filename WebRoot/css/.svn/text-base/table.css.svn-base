@@ -1,7 +1,0 @@
-table_grid {
-	cellSpacing: 0;
-	orderColorDark: #ffffff;
-	ellPadding: 3 ;
-	borderColorLight: #000000; 
-	border: 1
-}
